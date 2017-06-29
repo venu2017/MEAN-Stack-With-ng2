@@ -1,0 +1,30 @@
+{
+  "name": "mean-ng",
+  "version": "1.0.0",
+  "description": "MEAN Stack With Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venu2017/MEAN-Stack-With-ng2.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Application",
+    "with",
+    "Angular",
+    "2"
+  ],
+  "author": "Venugopal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venu2017/MEAN-Stack-With-ng2/issues"
+  },
+  "homepage": "https://github.com/venu2017/MEAN-Stack-With-ng2#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
